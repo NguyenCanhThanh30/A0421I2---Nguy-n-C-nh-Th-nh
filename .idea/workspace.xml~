@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75b6b18b-4836-4f90-844a-ac9c1f23dd00" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/module1/3_MoTaThuatToanPseudoCode&amp;FlowChart/bt/BTtimsolonnhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/3_MoTaThuatToanPseudoCode&amp;FlowChart/bt/quydoitiente.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/4_Git&amp;HTML/thuchanh/HTMLcoban.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/9_CauTrucDieuKien2/bt/luyentapcautrucđieukien1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/5. HTML Form &amp; Table/baitap/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/5. HTML Form &amp; Table/baitap/tao-form-don-gian.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/5. HTML Form &amp; Table/thuchanh/Tao-form-co-ban.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/5. HTML Form &amp; Table/thuchanh/Tim-kiếm-gg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/8. Cấu trúc điều kiện 1/thuchanh/btswitch-case2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/8. Cấu trúc điều kiện 1/thuchanh/btswitch-case3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/8. Cấu trúc điều kiện 1/thuchanh/cautrucifesleif.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/8. Cấu trúc điều kiện 1/thuchanh/cautrucswitch-case.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/8. Cấu trúc điều kiện 1/thuchanh/kiemtranamnhuan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/8. Cấu trúc điều kiện 1/thuchanh/thuchanhtoan3ngoi/Employee.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/8. Cấu trúc điều kiện 1/thuchanh/thuchanhtoan3ngoi/add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/9_CauTrucDieuKien2/bt/maytinhdongian.html" beforeDir="false" afterPath="$PROJECT_DIR$/module1/9_CauTrucDieuKien2/bt/maytinhdongian.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1t0jp3WnLCH8D6yEnNdt9IBw08a" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/module1/3. Mô tả thuật toán bằng Pseudo code &amp; Flowchart/bt" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\A0421I1-NguyenCanhThanh\module1\3. Mô tả thuật toán bằng Pseudo code &amp; Flowchart\bt" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75b6b18b-4836-4f90-844a-ac9c1f23dd00" name="Default Changelist" comment="" />
+      <created>1621913079796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621913079796</updated>
+      <workItem from="1621913081633" duration="14568000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="57" key="SettingsEditor" timestamp="1621913146726">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1621913146726" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1621913329317">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1621913329317" />
+  </component>
+</project>
